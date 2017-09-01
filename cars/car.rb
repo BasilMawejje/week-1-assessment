@@ -1,5 +1,5 @@
 class Car
-  attr_accessor :color, :new_color
+  attr_accessor :color, :new_color, :name
 
   def initialize
     @color = 'red'
