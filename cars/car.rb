@@ -7,6 +7,6 @@ class Car
 
   def paint(new_color)
     @color = new_color
-    puts "car color changed to #{new_color}"
+    "car color changed to #{new_color}"
   end
 end
